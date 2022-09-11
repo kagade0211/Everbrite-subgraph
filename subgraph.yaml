@@ -11,12 +11,12 @@ dataSources:
     source:
       address: "0x4447e04FA2343C1BC540C2290cA223c60381408f"
       abi: Web3RSVP
-      startBlock: 27699033  
+      startBlock: 26833573  
       
 
     mapping:
       kind: ethereum/events
-      apiVersion: 0.0.6
+      apiVersion: 0.0.5
       language: wasm/assemblyscript
       entities:
         - Event
